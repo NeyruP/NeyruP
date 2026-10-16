@@ -19,13 +19,17 @@ Aqui estão alguns dos projetos nos quais estou trabalhando para colocar a mão 
 
 * **X-B0T** - *Em desenvolvimento*
   * Um sistema de TCG (Trading Card Game) em Python focando em mecânicas de combate, automação de energia por turnos e gerenciamento de habilidades de cartas.
-* **[Animação de Flor em CSS]** - *Front-end*
-  * Um projeto de animação web utilizando CSS avançado para criar um efeito de desabrochar em tela cheia (`fullscreen macro blooming`).
-* **[Outro Projeto Legal]** - *Breve descrição do que ele faz e quais tecnologias usou.*
+
+  **Eldoria - *Eldoria e o primeiro jogo que eu fiz, eu fiz ele somente em python como um RPG de texto, quero continuar fazendo ele crescer mesmo que não me gere dinheiro**
 
 ---
 
 ## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-AQUI&layout=compact&theme=radical"/>
+</p>
 
 ---
 
