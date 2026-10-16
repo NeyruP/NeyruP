@@ -24,14 +24,6 @@ Aqui estão alguns dos projetos nos quais estou trabalhando para colocar a mão 
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-AQUI&layout=compact&theme=radical"/>
-</p>
-
----
 
 ## 📬 Vamos nos conectar?
 
