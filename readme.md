@@ -1,4 +1,4 @@
-# Olá, mundo! 🚀 Sou o [Seu Nome]
+# Olá, mundo! 🚀 Sou o Neyru(uso esse nome para não me expor)
 
 Estudante do primeiro ano de **Técnico/Faculdade em Informática**, apaixonado por tecnologia, programação e desenvolvimento de software. Atualmente, estou focado em construir uma base sólida em lógica de programação, desenvolvimento web e criação de jogos/sistemas em Python.
 
@@ -17,7 +17,7 @@ Estudante do primeiro ano de **Técnico/Faculdade em Informática**, apaixonado 
 
 Aqui estão alguns dos projetos nos quais estou trabalhando para colocar a mão na massa e evoluir minhas habilidades:
 
-* **[Nome do Jogo TCG em Python]** - *Em desenvolvimento*
+* **X-B0T** - *Em desenvolvimento*
   * Um sistema de TCG (Trading Card Game) em Python focando em mecânicas de combate, automação de energia por turnos e gerenciamento de habilidades de cartas.
 * **[Animação de Flor em CSS]** - *Front-end*
   * Um projeto de animação web utilizando CSS avançado para criar um efeito de desabrochar em tela cheia (`fullscreen macro blooming`).
@@ -36,5 +36,5 @@ Aqui estão alguns dos projetos nos quais estou trabalhando para colocar a mão 
 
 ## 📬 Vamos nos conectar?
 
-* **LinkedIn:** [Seu Link do LinkedIn](https://linkedin.com)
-* **E-mail:** seu.email@exemplo.com
+* **
+* **E-mail:** stormsailneyru@gmail.com
